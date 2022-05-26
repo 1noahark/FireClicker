@@ -7,8 +7,17 @@ Features:
  - You can set the Timer of the Auto Clicker (For How Long You want it to click)
  - You can Turn Off the Auto Clicker Just by pressing ctrl-q
 
+# Warning
+**If Something corrupts It's because of your fault not the software's**
 
-*Warning* If Something corrupts It's because of your fault not the software's. 
-*Info* You can't change the Values For Now
+# Info 
+
+Some Info About FIRECLICKER 0.01:
+1. You can't change the Values(the speed and the clicker) For Now
+2. Currently on V0.01
+3. Made By NoahArk
+
+
+
 
 
