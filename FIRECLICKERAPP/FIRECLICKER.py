@@ -29,6 +29,10 @@ def click():
         if keyboard.is_pressed("enter"):
             attack()
             break
+        if keyboard.is_pressed("ctrl + q"):
+            app.destroy()
+            break 
+            
 
 
             
