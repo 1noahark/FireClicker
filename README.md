@@ -19,7 +19,7 @@ Some Info About FIRECLICKER 0.01:
 
 # Screenshots
 
-![Screenshot](Image/logo.png)
+![Screenshot](FireClicker/FireClickerApp/Image/logo.png)
 
 
 
