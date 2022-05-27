@@ -17,6 +17,10 @@ Some Info About FIRECLICKER 0.01:
 2. Currently on V0.01
 3. Made By NoahArk
 
+# Screenshots
+
+![Screenshot](Image/logo.png)
+
 
 
 
